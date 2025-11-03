@@ -14,6 +14,7 @@
   go mod tidy
   go run src/main.go
   ```
+- App akan berjalan di port yang diisi di .env
 
 # Desain Sistem
 - Terdapat 4 tabel
