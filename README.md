@@ -36,8 +36,6 @@
 
 # API Docs
 
-Base URL: `{{base_url}}`
-
 ## Yards
 
 ### List Yards
@@ -77,7 +75,7 @@ Example URL:
 
 Example URL:
 ```
-/yard/f934f63a-5770-44cb-9b91-9906c0cc87a6
+/yard/1
 ```
 
 ---
@@ -231,11 +229,3 @@ Request body:
   "container_id": "C001"
 }
 ```
-
----
-
-## Variables
-
-| Key | Description |
-|---|---|
-| `base_url` | Base API Endpoint |
